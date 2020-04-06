@@ -4,7 +4,7 @@
     "module": "ES2020",
     "outDir": "./dist-tsc",
 
-    "isolatedModules": false,
+    "isolatedModules": true,
     "importsNotUsedAsValues": "remove"
   }
 }
