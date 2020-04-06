@@ -5,6 +5,6 @@
     "outDir": "./dist-tsc",
 
     "isolatedModules": true,
-    "importsNotUsedAsValues": "remove"
+    "importsNotUsedAsValues": "error"
   }
 }

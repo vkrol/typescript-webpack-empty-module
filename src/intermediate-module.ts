@@ -1,4 +1,4 @@
-import { Interface } from "./types";
+import type { Interface } from "./types";
  
 export class Class implements Interface {}
  

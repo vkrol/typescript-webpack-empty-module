@@ -112,22 +112,8 @@ new _intermediate_module__WEBPACK_IMPORTED_MODULE_0__["Class"]();
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Class", function() { return Class; });
-/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./types */ "./src/types.ts");
-/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_types__WEBPACK_IMPORTED_MODULE_0__);
-
 class Class {
 }
-
-
-/***/ }),
-
-/***/ "./src/types.ts":
-/*!**********************!*\
-  !*** ./src/types.ts ***!
-  \**********************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
 
 
 /***/ })
